@@ -1,0 +1,21 @@
+# Large data files
+ecommerce_logs.csv
+data/
+output/
+
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Documents (optional - remove if you want to push these)
+
+*.pptx
